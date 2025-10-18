@@ -120,6 +120,12 @@ Desarrollar un **modelo predictivo** basado en datos que identifique la probabil
 
 ---
 
+> ## 💾 Descargas del Proyecto  
+> 📄 **[Proyecto completo (PDF)](https://github.com/CrisEsparza/Alzheimers_Prediction/raw/main/Predicción_de_Alzheimer.pdf)**  
+> 📊 **[alzheimer_dataset.csv](https://github.com/CrisEsparza/Alzheimers_Prediction/raw/main/alzheimer_dataset.csv)**  
+> Contiene los datos del proyecto *Alzheimers Prediction* y el informe/documentación en PDF.
+
+
 ### 📫 Contacto  
 
 👤 **Cristopher Esparza**  
