@@ -126,7 +126,6 @@ Desarrollar un **modelo predictivo** basado en datos que identifique la probabil
 > Contiene el informe del proyecto *Alzheimers Prediction* y el dataset utilizado para el análisis.
 
 
-
 ### 📫 Contacto  
 
 👤 **Cristopher Esparza**  
